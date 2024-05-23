@@ -1,7 +1,7 @@
 
 # Data Explained: Supplementary methods
 
-This repository contains supplementary methods for "[Data Explained: Ministry of Justice and Department for Education linked dataset - England](LINK)". It contains additional, detailed methods for how the report was produced, including data sources, sample definition, and variable derivation.
+This repository contains supplementary methods for "[Data Explained: Ministry of Justice and Department for Education linked dataset - England](https://www.adruk.org/fileadmin/uploads/adruk/Documents/Data_Explained/Data_Explained_Discrepancies_in_Gender_and_Ethnicity_data_in_NPD_and_PNC.pdf)". It contains additional, detailed methods for how the report was produced, including data sources, sample definition, and variable derivation.
 
 The methods were developed by  [Alice Wickersham](https://www.kcl.ac.uk/people/alice-wickersham) during her time as an Administrative Data Research UK (ADR UK) Research Fellow at King's College London. This work was supported by ADR UK. ADR UK is a partnership transforming the way researchers access the UK’s wealth of public sector data, to enable better informed policy decisions that improve people’s lives. ADR UK is an Economic and Social Research Council (ESRC) investment (part of UK Research and Innovation). Grant number: ES/W002531/1.
 
@@ -23,7 +23,7 @@ This has been released under [GNU General Public License (v3)](https://www.gnu.o
 Please cite our Data Explained report:
 
 ```
-Wickersham, A. (2024). Data Explained: Ministry of Justice and Department for Education linked dataset - England. 
+Wickersham, A. (2024). Data Explained: Ministry of Justice and Department for Education linked dataset - England. Available from: https://www.adruk.org/data-access/data-explained/
 ```
 
 
